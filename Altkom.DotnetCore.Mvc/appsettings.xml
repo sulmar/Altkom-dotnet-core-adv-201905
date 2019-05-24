@@ -1,0 +1,7 @@
+﻿<configuration>
+  <CustomerQty>900</CustomerQty>
+
+  <Module1>
+    <protocol>udp</protocol>
+  </Module1>
+</configuration>
